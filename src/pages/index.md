@@ -1,20 +1,30 @@
 ---
 templateKey: index-page
-title: Dit is de Blog van Fadoua Rian
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: "Fadoua Lifestyle "
+image: /img/plannerversie1.jpg
+heading: "Grateful, mindful and loveful "
+subheading: "Create the life you want "
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: "My inefficiency "
+  description: >+
+    What my inefficiency taught me 
+
+    So I had a lot of things to do, I decided to make some time free to work on those things 
+
+
+    First I wanted to start early, so when my alarm started ringing I knew I had time to turn around and sleep an extra hour 
+
+
+    After I had my shower and breakfast, that took me 2 hours, I went to my home office, where I started to watch my wedding video before this also took me another hour. 
+
+    That give me a lot of positive energy, but it took my precious time. 
+
+
+    Well it was time to make a To Do list. 
+
+    I always use my Planner
+
+description: Planner
 intro:
   blurbs:
     - image: /img/coffee.png
